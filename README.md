@@ -2,7 +2,7 @@
 
 <!-- badges: start -->
 
-[![AppVeyor build status](https://ci.appveyor.com/project/Jechu2/fars-pa19e)
+[![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/Jechu2/FARS?branch=master&svg=true)]https://ci.appveyor.com/project/Jechu2/fars-pa19e)
 
 [![Travis build status](https://travis-ci.com/Jechu2/FARS.svg?branch=master)](https://travis-ci.com/Jechu2/FARS)
 <!-- badges: end -->
