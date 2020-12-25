@@ -1,0 +1,26 @@
+---
+title: "Module 4 - Building R Packages:FARS, an R package to visualize data from Fatality Analysis Recording System"
+author: "JESUS OBREGON"
+date: "2020-12-25"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Vignette Title}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+This package has several functions to read, summarize and visualize US FARS data.
+
+## Functions
+
+Please download the data files and place them in the working directory of your code. 
+
+- fars_read()
+- make_filename()
+- fars_read_years()
+- fars_summarize_years()
+- fars_map_state()
+
+```{r setup}
+library(FARS)
+```
