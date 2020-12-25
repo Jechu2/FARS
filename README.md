@@ -2,6 +2,8 @@
 
 <!-- badges: start -->
 [![Travis build status](https://travis-ci.org/KvEijden/FARS.svg?branch=master)](https://travis-ci.org/KvEijden/FARS)
+[![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/Jechu2/FARS?branch=master&svg=true)](https://ci.appveyor.com/project/Jechu2/FARS)
+[![Travis build status](https://travis-ci.com/Jechu2/FARS.svg?branch=master)](https://travis-ci.com/Jechu2/FARS)
 <!-- badges: end -->
 
 ## Disclaimer
